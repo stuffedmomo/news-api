@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samvād</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        // Don't access DOM elements here - they don't exist yet
+        // Instead, define functions first and access DOM elements inside window.onload
+
+        // Function to update the active link styling
+        function setActiveLink(element, linksList) {
+            if (!linksList) return; // Guard against null
+            // Remove active class from all links
+            linksList.forEach(link => link.classList.remove('active'));
+            // Add active class to the parent li of the clicked link
+            if (element) {
+                element.parentElement.classList.add('active');
+            }
+        }
+
+        function showLoading(contentElement) {
+            if (contentElement) {
+                contentElement.innerHTML = '<div id="loading-indicator">Loading content</div>';
+            }
+        }
+
+        function showError(message, contentElement) {
+            if (contentElement) {
+                contentElement.innerHTML = '<div id="error-message">Error loading content: ' + message + '</div>';
+            }
+        }
+        
+        function displayContent(html, contentElement) {
+            if (!contentElement) return;
+            
+            contentElement.innerHTML = html;
+            // Ensure images loaded via fetch are responsive
+            const images = contentElement.querySelectorAll('img');
+            images.forEach(img => {
+                img.style.maxWidth = '100%';
+                img.style.height = 'auto';
+                img.style.display = 'block';
+                img.style.margin = '15px 0';
+                img.style.borderRadius = '8px';
+            });
+
+            // Add animation to the content
+            contentElement.style.animation = 'fadeIn 0.5s ease-out';
+        }
+
+        function loadNews(linkElement, filename, contentElement, sidebarLinks) {
+            if (linkElement) {
+                setActiveLink(linkElement, sidebarLinks);
+            }
+            showLoading(contentElement);
+            
+            fetch('/view/' + filename)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('HTTP error! status: ' + response.status);
+                    }
+                    return response.text();
+                })
+                .then(html => {
+                    displayContent(html, contentElement);
+                })
+                .catch(error => {
+                    console.error('Fetch error:', error); // Log error for debugging
+                    showError(error.message, contentElement);
+                });
+            return false; // Prevent default link behavior
+        }
+        
+        function goHome(contentElement, sidebarLinks) {
+            if (!contentElement) return;
+            setActiveLink(null, sidebarLinks);
+            contentElement.innerHTML = `
+                <div class="welcome-message">
+                    <h2>Welcome to Samvād</h2>
+                    <p>Your source for curated news and information. Select a news file from the sidebar to begin reading.</p>
+                </div>
+            `;
+        }
+        
+        // Function to populate the sidebar list
+        function populateSidebar(files, sidebarElement, contentElement) {
+            if (!sidebarElement) return; // Guard if element not found
+            
+            sidebarElement.innerHTML = ''; // Clear existing (e.g., error message)
+            
+            if (files.length === 0) {
+                sidebarElement.innerHTML = '<li>No news files found.</li>';
+                return;
+            }
+            
+            // Get references that will be used in closures
+            const allLinks = [];
+            
+            files.forEach(file => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.textContent = file.title;
+                a.href = '#'; // Prevent page jump
+                
+                // Store reference to the link
+                allLinks.push(li);
+                
+                // Add event listener with captured variables
+                a.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    loadNews(this, file.filename, contentElement, allLinks);
+                    return false;
+                });
+                
+                li.appendChild(a);
+                sidebarElement.appendChild(li);
+            });
+            
+            return allLinks;
+        }
+        
+        // Initialize everything once the DOM is fully loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('DOM loaded, initializing app...');
+            
+            // Get DOM elements now that the document is ready
+            const contentDiv = document.getElementById('content');
+            const sidebarUl = document.getElementById('news-file-list');
+            const homeLink = document.getElementById('home-link');
+            
+            console.log('Content div found:', !!contentDiv);
+            console.log('Sidebar UL found:', !!sidebarUl);
+            
+            // Set up home link click handler
+            if (homeLink) {
+                homeLink.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    goHome(contentDiv, sidebarLinks);
+                    return false;
+                });
+            }
+            
+            // Set up sources link click handler
+            const sourcesLink = document.getElementById('sources-link');
+            if (sourcesLink) {
+                sourcesLink.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    // Pass null for the linkElement since it's not in the sidebar
+                    loadNews(null, 'sources.md', contentDiv, sidebarLinks);
+                    return false;
+                });
+            }
+            
+            // Variable to store all sidebar links
+            let sidebarLinks = [];
+            
+            // Fetch the list of files and populate the sidebar
+            fetch('/api/files')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to fetch news files list: ' + response.status);
+                    }
+                    return response.json();
+                })
+                .then(files => {
+                    console.log('Files fetched:', files.length);
+                    // Filter out sources.md from the sidebar
+                    const filteredFiles = files.filter(file => file.filename !== 'sources.md');
+                    sidebarLinks = populateSidebar(filteredFiles, sidebarUl, contentDiv);
+                    goHome(contentDiv, sidebarLinks); // Set initial state after sidebar is populated
+                })
+                .catch(error => {
+                    console.error("Error fetching file list:", error);
+                    if (sidebarUl) {
+                        sidebarUl.innerHTML = '<li style="color: red;">Error loading file list: ' + error.message + '</li>';
+                    }
+                    goHome(contentDiv, []); // Still set initial content state
+                });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Samvād</h1>
+            <div class="header-buttons">
+                <a href="#" id="sources-link" class="header-button">Sources</a>
+                <a href="#" id="home-link" class="header-button">Back to Home</a>
+            </div>
+        </header>
+        
+        <div class="main-content">
+            <div class="sidebar">
+                <h2>Available News Files</h2>
+                <ul id="news-file-list">
+                    <!-- Links will be dynamically populated here by JavaScript -->
+                    <li>Loading file list...</li>
+                </ul>
+            </div>
+            <div id="content">
+                <!-- Content will be loaded here -->
+                <div class="welcome-message">
+                    <h2>Welcome to Samvād</h2>
+                    <p>Your source for curated news and information. Select a news file from the sidebar to begin reading.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
