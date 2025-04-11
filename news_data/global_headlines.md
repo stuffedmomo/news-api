@@ -1,187 +1,163 @@
 # Global Headlines
 
-*Generated on 2025-04-09 14:04:20*
+*Generated on 2025-04-11 16:50:29*
 
 Total articles: 9
 
-## 1. European stocks move 1.4% higher, reversing course after streak of tariff-led losses - CNBC
+## 1. Exclusive | Prada Strikes $1.4 Billion Deal for Versace - WSJ
 
-**Source**: CNBC
+**Source**: The Wall Street Journal
 
-**Published**: 2025-04-08 08:19:00
+**Published**: 2025-04-10 12:20:00
 
-**Author**: Chloe Taylor, Sophie Kiderlin
+**Author**: WSJ
 
-**Description**: European markets were in positive territory on Tuesday after closing sharply lower Monday amid red-hot tariff tensions.
-
-**Content**:
-
-European markets moved higher on Tuesday, reversing course from a four-day losing streak fuelled by red-hot global tariff tensions.
-The regional Stoxx 600 index was around 1.4% higher by 9:52 a.m. i… [+1623 chars]
-
-**URL**: [https://www.cnbc.com/2025/04/08/european-markets-set-to-open-higher-as-tariff-tensions-rage-on.html](https://www.cnbc.com/2025/04/08/european-markets-set-to-open-higher-as-tariff-tensions-rage-on.html)
-
-**Image**: ![Article Image](https://image.cnbcfm.com/api/v1/image/108128069-1744084589654-gettyimages-2208424750-250407_fw0411.jpeg?v=1744084623&w=1920&h=1080)
+**URL**: [https://www.wsj.com/business/deals/prada-deal-for-versace-at-risk-of-collapsing-with-market-in-turmoil-93a285fc](https://www.wsj.com/business/deals/prada-deal-for-versace-at-risk-of-collapsing-with-market-in-turmoil-93a285fc)
 
 ---
 
-## 2. Wall Street’s S&P 500 targets are still predicting a big rally, even after a flurry of cuts - MarketWatch
+## 2. Trump tariffs live updates: EU matches Trump's 90-day pause on tariffs kicking in - Yahoo Finance
 
-**Source**: MarketWatch
+**Source**: Yahoo Entertainment
 
-**Published**: 2025-04-08 07:51:00
+**Published**: 2025-04-10 11:05:41
 
-**Author**: Steve Goldstein
+**Author**: Yahoo Finance
 
-**Content**:
-
-Steven Goldstein is based in London and responsible for MarketWatch's coverage of financial markets in Europe, with a particular focus on global macro and commodities. Previously, he was Washington b… [+121 chars]
-
-**URL**: [https://www.marketwatch.com/story/wall-streets-s-p-500-targets-are-still-predicting-a-big-rally-even-after-a-flurry-of-cuts-f3f6ad36](https://www.marketwatch.com/story/wall-streets-s-p-500-targets-are-still-predicting-a-big-rally-even-after-a-flurry-of-cuts-f3f6ad36)
-
-**Image**: ![Article Image](https://images.mktw.net/im-09050531/social)
-
----
-
-## 3. China vows ‘fight to the end’ after Trump threatens extra 50% tariff - Financial Times
-
-**Source**: Financial Times
-
-**Published**: 2025-04-08 06:53:28
-
-**Author**: Ryan McMorrow, Arjun Neil Alim, Edward White, Cheng Leng, Joe Leahy
-
-**Description**: Beijing and Washington exchange warnings of retaliation as markets stabilise
+**Description**: Yahoo Finance is chronicling the latest news and updates on Trump's tariffs.
 
 **Content**:
 
-Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.
-<ul><li>Global news &amp; analysis</li><li>Expert opinion</li><li>FT App… [+401 chars]
+President Trump said Wednesday that he was raising the US tariff rate on China to 125% and instituted a 90-day pause on steep "reciprocal" tariffs on other countries. The European Union will match Tr… [+14937 chars]
 
-**URL**: [https://www.ft.com/content/f91a45e4-5daf-4891-95d8-9771ee3e035d](https://www.ft.com/content/f91a45e4-5daf-4891-95d8-9771ee3e035d)
+**URL**: [https://finance.yahoo.com/news/live/trump-tariffs-live-updates-eu-matches-trumps-90-day-pause-on-tariffs-kicking-in-191201532.html](https://finance.yahoo.com/news/live/trump-tariffs-live-updates-eu-matches-trumps-90-day-pause-on-tariffs-kicking-in-191201532.html)
 
-**Image**: ![Article Image](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe24c0670-97ff-44f3-9dc2-52b3aead169b.jpg?source=next-barrier-page)
+**Image**: ![Article Image](https://s.yimg.com/ny/api/res/1.2/elyN_13pGPz5GdHPccAGTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/4b475370-1002-11f0-b97e-0b18d35cb5b0)
 
 ---
 
-## 4. Marco Rubio said he’d protect lifesaving aid overseas. DOGE disagreed. - The Washington Post
+## 3. 2025 Masters TV schedule, coverage, channel, how to watch online, where to live stream today, golf tee times - CBS Sports
 
-**Source**: The Washington Post
+**Source**: CBS Sports
 
-**Published**: 2025-04-08 04:44:00
+**Published**: 2025-04-10 10:45:00
 
-**Author**: Annie Gowen
-
-**Description**: Humanitarian groups have been notified that funding will end immediately for key food and emergency medical assistance across Africa and the Middle East.
+**Description**: Where to watch every memorable moment of the 2025 Masters on TV or streaming live
 
 **Content**:
 
-Aid groups around the globe that were assured lifesaving humanitarian assistance would be safe from White House budget cuts have received notices that those programs will be ended because they are in… [+3506 chars]
+The most wonderful time of the golf season has arrived as the beauty of April surrounds Augusta National Golf Club. The 2025 Masters begins another star-studded affair Thursday with an absolutely loa… [+7341 chars]
 
-**URL**: [https://www.washingtonpost.com/nation/2025/04/07/usaid-cutting-humanitarian-aid-doge/](https://www.washingtonpost.com/nation/2025/04/07/usaid-cutting-humanitarian-aid-doge/)
+**URL**: [https://www.cbssports.com/golf/news/2025-masters-tv-schedule-coverage-channel-how-to-watch-online-where-to-live-stream-today-golf-tee-times/](https://www.cbssports.com/golf/news/2025-masters-tv-schedule-coverage-channel-how-to-watch-online-where-to-live-stream-today-golf-tee-times/)
 
-**Image**: ![Article Image](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NL3WCDWHBEI63HGFUWFE63MEZU.jpg&w=1440)
-
----
-
-## 5. Florida swamps Houston, winning 3rd NCAA men's basketball national championship - NPR
-
-**Source**: NPR
-
-**Published**: 2025-04-08 03:15:04
-
-**Author**: Dan Katz
-
-**Description**: The Florida Gators downed Houston, denying the Cougars their first-ever title. Florida, one of a record 14 Southeastern Conference teams to make the men's tournament, won its third NCAA championship.
-
-**Content**:
-
-SAN ANTONIO The University of Florida Gators are back on top of the college basketball world.
-In front of a capacity crowd of 66,602 at the Alamodome on Monday night, the Gators pulled off yet anoth… [+2641 chars]
-
-**URL**: [https://www.npr.org/2025/04/07/nx-s1-5355078/florida-gators-houston-cougars-mens-basketball-ncaa-champions](https://www.npr.org/2025/04/07/nx-s1-5355078/florida-gators-houston-cougars-mens-basketball-ncaa-champions)
-
-**Image**: ![Article Image](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3869x2176+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2Fa9%2Fd7c7be7e43b9bd585a246dd14020%2Fgettyimages-2209096322.jpg)
+**Image**: ![Article Image](https://sportshub.cbsistatic.com/i/r/2025/04/09/e9e6e8a6-ba70-430b-a89b-b399431c9f54/thumbnail/1200x675/e278116e4d5978d6a95710dfe3a31d65/masters-flag-2025-us.jpg)
 
 ---
 
-## 6. Shingles Shot Slashes Dementia Risk by 20% in Landmark Stanford Study - SciTechDaily
-
-**Source**: SciTechDaily
-
-**Published**: 2025-04-08 02:43:03
-
-**Description**: A rare policy quirk in Wales offered scientists an accidental natural experiment—and what they found could reshape how we prevent dementia. Researchers discovered that people eligible for the shingles vaccine were 20% less likely to develop dementia years lat…
-
-**Content**:
-
-The shingles shot not only cuts down painful rashes—it might also slash dementia risk, especially in women, according to a cleverly designed study of Welsh health records.
-A rare policy quirk in Wal… [+9917 chars]
-
-**URL**: [https://scitechdaily.com/?p=467183](https://scitechdaily.com/?p=467183)
-
-**Image**: ![Article Image](https://scitechdaily.com/images/Woman-Doctor-Holding-Vaccine.jpg)
-
----
-
-## 7. Scientists say they have resurrected the dire wolf - CNN
+## 4. More than 300 student visas revoked as the government expands reasons for deportation - CNN
 
 **Source**: CNN
 
-**Published**: 2025-04-08 02:42:00
+**Published**: 2025-04-10 10:36:00
 
-**Author**: Katie Hunt
+**Author**: Andy Rose, Caroll Alvarado
 
-**Description**: Scientists working for Dallas-based biotech company Colossal Biosciences claim to have brought the dire wolf, which went extinct about 12,500 years ago, back to life.
+**Description**: An increasing number of student deportation threats involve the revocation of visas based on relatively minor offenses like years-old misdemeanors, according to immigration attorneys, or sometimes no reason at all.
 
 **Content**:
 
-Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.
-Editors Note: Call to Earth is a CNN editorial series … [+6214 chars]
+Kseniia Petrovas path from a Harvard laboratory to an immigration cell began with frogs.
+The Russian national who has been working as a researcher at Harvard Medical School failed to declare non-haz… [+9919 chars]
 
-**URL**: [https://www.cnn.com/2025/04/07/science/dire-wolf-de-extinction-cloning-colossal/index.html](https://www.cnn.com/2025/04/07/science/dire-wolf-de-extinction-cloning-colossal/index.html)
+**URL**: [https://www.cnn.com/2025/04/09/us/us-immigration-student-visas-revoked/index.html](https://www.cnn.com/2025/04/09/us/us-immigration-student-visas-revoked/index.html)
 
-**Image**: ![Article Image](https://media.cnn.com/api/v1/images/stellar/prod/2501-dw-3month-nonexclusive.jpg?c=16x9&q=w_800,c_fill)
+**Image**: ![Article Image](https://media.cnn.com/api/v1/images/stellar/prod/ap25093674396299.jpg?c=16x9&q=w_800,c_fill)
 
 ---
 
-## 8. House vs. NCAA settlement: Judge wants college sports' landmark proposal reworked - USA Today
+## 5. Cannes Lines Up Another Hot Festival With Wes Anderson, Richard Linklater, Ari Aster Premieres (Full List) - The Hollywood Reporter
 
-**Source**: USA Today
+**Source**: Hollywood Reporter
 
-**Published**: 2025-04-08 00:57:17
+**Published**: 2025-04-10 10:18:00
 
-**Author**: Steve Berkowitz
+**Author**: Scott Roxborough
 
-**Description**: On Monday, a California judge conducted a hearing on a settlement that would reshape college sports. Read the developments as they happened.
+**Description**: Directorial debuts from Scarlett Johansson and Harris Dickinson will premiere in Cannes' Un Certain Regard sidebar.
 
 **Content**:
 
-U.S. District Judge Claudia Wilken all but said Monday that she will not grant final approval to a proposed settlement of three athlete-compensation antitrust cases against the NCAA and the Power Fiv… [+21638 chars]
+The 78th edition of the Cannes Film Festival is looking to be another knockout, with some of this year’s hottest features, including Wes Anderson’s The Phoenician Scheme, Richard Linklater’s Nouvelle… [+5872 chars]
 
-**URL**: [https://www.usatoday.com/story/sports/college/2025/04/07/house-ncaa-settlement-hearing-live-updates-college-sports/82968197007/](https://www.usatoday.com/story/sports/college/2025/04/07/house-ncaa-settlement-hearing-live-updates-college-sports/82968197007/)
+**URL**: [http://www.hollywoodreporter.com/movies/movie-news/cannes-2025-film-festival-selection-lineup-1236183130/](http://www.hollywoodreporter.com/movies/movie-news/cannes-2025-film-festival-selection-lineup-1236183130/)
 
-**Image**: ![Article Image](https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/07/USAT/82968396007-ncaalogobaseball.jpg?crop=4838,2721,x218,y1277&width=3200&height=1800&format=pjpg&auto=webp)
+**Image**: ![Article Image](https://www.hollywoodreporter.com/wp-content/uploads/2025/04/4252_FP_00641-H-2025.jpg?w=1296&h=730&crop=1)
 
 ---
 
-## 9. Blondie Drummer Clem Burke Dies at 70 - Pitchfork
+## 6. Girl, 17, whose dad is lost in nightclub rubble spends birthday at scene - BBC
 
-**Source**: Pitchfork
+**Source**: BBC News
 
-**Published**: 2025-04-08 00:55:28
+**Published**: 2025-04-10 09:52:48
 
-**Author**: Nina Corcoran
-
-**Description**: The new-wave musician also briefly joined the Ramones on drums as Elvis Ramone in 1987
+**Description**: Shailyn Peña is one of many whose loved ones are missing after the roof of a nightclub collapsed in Santo Domingo.
 
 **Content**:
 
-Everything changed for Blondie in 1978. Leaning into their punk background, pop hooks, and the playful, far-ranging curiosities that gave their shows an edge, Blondie honed in on their sound with Pla… [+2710 chars]
+Will GrantMexico, Central America and Cuba Correspondent
+Reporting from
+Santo Domingo
+Máximo Peña had been coming to the Jet Set nightclub every single Monday for the past 30 years.
+This week, ex… [+4342 chars]
 
-**URL**: [https://pitchfork.com/news/blondie-drummer-clem-burke-dies-at-70/](https://pitchfork.com/news/blondie-drummer-clem-burke-dies-at-70/)
+**URL**: [https://www.bbc.com/news/articles/cly885xre5do](https://www.bbc.com/news/articles/cly885xre5do)
 
-**Image**: ![Article Image](https://media.pitchfork.com/photos/67f471ce0142cf07a1834f4a/16:9/w_1280,c_limit/Clem-Burke-Blondie-drummer.jpg)
+**Image**: ![Article Image](https://ichef.bbci.co.uk/news/1024/branded_news/1890/live/cf329170-159a-11f0-8a1e-3ff815141b98.jpg)
+
+---
+
+## 7. MAHA Turns on RFK Jr. Over Measles Vaccine Stance - WSJ
+
+**Source**: The Wall Street Journal
+
+**Published**: 2025-04-10 09:30:00
+
+**Author**: WSJ
+
+**URL**: [https://www.wsj.com/health/healthcare/rfk-jr-measles-mmr-vaccine-maha-reaction-8dc840ef](https://www.wsj.com/health/healthcare/rfk-jr-measles-mmr-vaccine-maha-reaction-8dc840ef)
+
+---
+
+## 8. Ukraine war: Zelensky claims 155 Chinese fighting for Russia - BBC
+
+**Source**: BBC News
+
+**Published**: 2025-04-10 09:25:39
+
+**Description**: It follows Beijing's denial that many of its citizens are involved in the conflict.
+
+**Content**:
+
+Tessa WongBBC News, Asia Digital Reporter
+Ukrainian President Volodymyr Zelensky says at least 155 Chinese citizens are fighting for Russia in the war.
+His comments come after two Chinese fighters … [+4043 chars]
+
+**URL**: [https://www.bbc.com/news/articles/c1wdd228953o](https://www.bbc.com/news/articles/c1wdd228953o)
+
+**Image**: ![Article Image](https://ichef.bbci.co.uk/news/1024/branded_news/6a2d/live/fdd203c0-15d2-11f0-8afa-814690b54757.jpg)
+
+---
+
+## 9. Inflation data to offer snapshot of economy largely before tariff turmoil - ABC News
+
+**Source**: ABC News
+
+**Published**: 2025-04-10 09:14:56
+
+**Author**: ABC News
+
+**URL**: [https://abcnews.go.com/Business/inflation-data-offer-snapshot-economy-largely-tariff-turmoil/story?id\\u003d120630485](https://abcnews.go.com/Business/inflation-data-offer-snapshot-economy-largely-tariff-turmoil/story?id\\u003d120630485)
 
 ---
 

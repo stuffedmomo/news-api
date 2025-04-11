@@ -1,125 +1,179 @@
 # Business and Economy News
 
-*Generated on 2025-04-09 14:04:21*
+*Generated on 2025-04-11 16:50:30*
 
-Total articles: 6
+Total articles: 10
 
-## 1. European stocks move 1.4% higher, reversing course after streak of tariff-led losses - CNBC
+## 1. Exclusive | Prada Strikes $1.4 Billion Deal for Versace - WSJ
 
-**Source**: CNBC
+**Source**: The Wall Street Journal
 
-**Published**: 2025-04-08 08:19:00
+**Published**: 2025-04-10 12:20:00
 
-**Author**: Chloe Taylor, Sophie Kiderlin
+**Author**: WSJ
 
-**Description**: European markets were in positive territory on Tuesday after closing sharply lower Monday amid red-hot tariff tensions.
-
-**Content**:
-
-European markets moved higher on Tuesday, reversing course from a four-day losing streak fuelled by red-hot global tariff tensions.
-The regional Stoxx 600 index was around 1.4% higher by 9:52 a.m. i… [+1623 chars]
-
-**URL**: [https://www.cnbc.com/2025/04/08/european-markets-set-to-open-higher-as-tariff-tensions-rage-on.html](https://www.cnbc.com/2025/04/08/european-markets-set-to-open-higher-as-tariff-tensions-rage-on.html)
-
-**Image**: ![Article Image](https://image.cnbcfm.com/api/v1/image/108128069-1744084589654-gettyimages-2208424750-250407_fw0411.jpeg?v=1744084623&w=1920&h=1080)
+**URL**: [https://www.wsj.com/business/deals/prada-deal-for-versace-at-risk-of-collapsing-with-market-in-turmoil-93a285fc](https://www.wsj.com/business/deals/prada-deal-for-versace-at-risk-of-collapsing-with-market-in-turmoil-93a285fc)
 
 ---
 
-## 2. Wall Street’s S&P 500 targets are still predicting a big rally, even after a flurry of cuts - MarketWatch
-
-**Source**: MarketWatch
-
-**Published**: 2025-04-08 07:51:00
-
-**Author**: Steve Goldstein
-
-**Content**:
-
-Steven Goldstein is based in London and responsible for MarketWatch's coverage of financial markets in Europe, with a particular focus on global macro and commodities. Previously, he was Washington b… [+121 chars]
-
-**URL**: [https://www.marketwatch.com/story/wall-streets-s-p-500-targets-are-still-predicting-a-big-rally-even-after-a-flurry-of-cuts-f3f6ad36](https://www.marketwatch.com/story/wall-streets-s-p-500-targets-are-still-predicting-a-big-rally-even-after-a-flurry-of-cuts-f3f6ad36)
-
-**Image**: ![Article Image](https://images.mktw.net/im-09050531/social)
-
----
-
-## 3. China Urges Shein to Halt Supply-Chain Shift After Tariffs - Bloomberg.com
-
-**Source**: Bloomberg
-
-**Published**: 2025-04-08 07:09:27
-
-**Description**: Fast-fashion giant Shein’s plans to shift some production out of China have met with opposition from the Chinese government, people familiar with the matter said, as Beijing seeks to stave off a manufacturing exodus in the face of Donald Trump’s escalating ta…
-
-**Content**:
-
-Supply Lines is a daily newsletter that tracks global trade. Sign up here.
-Fast-fashion giant Sheins plans to shift some production out of China have met with opposition from the Chinese government,… [+139 chars]
-
-**URL**: [https://www.bloomberg.com/news/articles/2025-04-08/china-urges-shein-to-halt-supply-chain-shift-after-tariffs](https://www.bloomberg.com/news/articles/2025-04-08/china-urges-shein-to-halt-supply-chain-shift-after-tariffs)
-
-**Image**: ![Article Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipuEflnZObFU/v0/1200x800.jpg)
-
----
-
-## 4. China offers first hint of devaluation with weak renminbi fix - Financial Times
+## 2. Chinese business scrambles to respond to Trump tariffs - Financial Times
 
 **Source**: Financial Times
 
-**Published**: 2025-04-08 05:26:16
+**Published**: 2025-04-10 12:03:23
 
-**Author**: Thomas Hale, Joseph Cotterill, Arjun Neil Alim
+**Author**: Thomas Hale, Robin Harding, Eleanor Olcott, Harry Dempsey, Arjun Neil Alim, Laura Onita, Chan Ho-him, Oliver Telling, Joe Leahy
 
-**Description**: Beijing permits exchange rate to drop below long-defended level
+**Description**: Shipments cancelled as punitive levies hit
 
 **Content**:
 
-Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.
-<ul><li></li>Everything in Print<li></li>Weekday Print Edition<li></li>FT … [+202 chars]
+Policy Shifts Explained
+Gain insight into the policies shaping international trade and finance.
+Global Trade Expertise 
+Read exclusive interviews with top policymakers and industry leaders along w… [+308 chars]
 
-**URL**: [https://www.ft.com/content/815a43ed-746e-4ae1-bf38-9ffc3598dc69](https://www.ft.com/content/815a43ed-746e-4ae1-bf38-9ffc3598dc69)
+**URL**: [https://www.ft.com/content/e607a07b-1fc0-4664-9982-b93605baba0b](https://www.ft.com/content/e607a07b-1fc0-4664-9982-b93605baba0b)
 
-**Image**: ![Article Image](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F982d8d83-76f6-4617-b7d6-a9f80bb21cec.jpg?source=next-barrier-page)
+**Image**: ![Article Image](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ca83365-c4be-489e-95ce-609ff9469039.jpg?source=next-barrier-page)
 
 ---
 
-## 5. Microsoft workers say they’ve been fired after 50th anniversary protest over Israel contract - AP News
+## 3. UBS strategist says investors should sell rallies despite tariff pause - MarketWatch
 
-**Source**: Associated Press
+**Source**: MarketWatch
 
-**Published**: 2025-04-08 00:35:00
+**Published**: 2025-04-10 10:47:00
 
-**Author**: Matt O'Brien
+**Author**: Barbara Kollmeyer
 
-**Description**: Microsoft has fired two employees who interrupted the company’s 50th anniversary celebration to protest its work supplying artificial intelligence technology to the Israeli military, according to a group representing the workers. Microsoft accused one of the …
+**Description**: Bhanu Baweja says the S&P 500 is at risk of slipping under 5,000
 
 **Content**:
 
-Microsoft has fired two employees who interrupted the companys 50th anniversary celebration to protest its work supplying artificial intelligence technology to the Israeli military, according to a gr… [+3934 chars]
+Strategists and advisers have been at pains to convey the message that 
+financial markets arent out of the woods after President Trumps rally-inducing tariff pause on Wednesday.Thursdays stock futur… [+332 chars]
 
-**URL**: [https://apnews.com/article/microsoft-protest-employees-fired-israel-gaza-50th-anniversary-c5b3715fa1800450b8d0f639b492495e](https://apnews.com/article/microsoft-protest-employees-fired-israel-gaza-50th-anniversary-c5b3715fa1800450b8d0f639b492495e)
+**URL**: [https://www.marketwatch.com/story/trumps-tariff-pause-takes-away-bad-outcomes-but-this-ubs-strategist-says-investors-should-still-sell-rallies-0e6f56af](https://www.marketwatch.com/story/trumps-tariff-pause-takes-away-bad-outcomes-but-this-ubs-strategist-says-investors-should-still-sell-rallies-0e6f56af)
 
-**Image**: ![Article Image](https://dims.apnews.com/dims4/default/39b95f8/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2F98%2F031b75061a494ec548e44dadb494%2Fd70cdefe5f3f416e8ab2227f7f77e54f)
+**Image**: ![Article Image](https://images.mktw.net/im-42580366/social)
 
 ---
 
-## 6. Musk made direct appeals to Trump to reverse sweeping new tariffs - The Washington Post
+## 4. Business leaders from Bill Ackman to Mark Cuban react to Trump's tariff pause - Business Insider
 
-**Source**: The Washington Post
+**Source**: Business Insider
 
-**Published**: 2025-04-07 23:47:32
+**Published**: 2025-04-10 10:14:00
 
-**Author**: Elizabeth Dwoskin, Faiz Siddiqui, Pranshu Verma, Trisha Thadani
+**Author**: Katherine Tangalakis-Lippert, Huileng Tan, Kwan Wei Kevin Tan, Nora Redmond
 
-**Description**: The world’s richest person, a key Trump adviser and political donor, was ultimately unsuccessful.
+**Description**: Donald Trump paused some tariffs from going into effect Wednesday, sending ripples through the business community.
 
 **Content**:
 
-Over the weekend, as Elon Musk launched into a barrage of social media posts criticizing one of the lead White House advisers for President DonaldTrumps aggressive tariff plan, Musk was going over th… [+6757 chars]
+President Donald Trump on Wednesday announced a planned90-day pause in his aggressive tariff plan against some countries, sending ripples through the business community.
+The market, which had plumme… [+6557 chars]
 
-**URL**: [https://www.washingtonpost.com/business/2025/04/07/musk-trump-tariffs/](https://www.washingtonpost.com/business/2025/04/07/musk-trump-tariffs/)
+**URL**: [https://www.businessinsider.com/business-leaders-react-donald-trump-temporary-tariff-pause-2025-4](https://www.businessinsider.com/business-leaders-react-donald-trump-temporary-tariff-pause-2025-4)
 
-**Image**: ![Article Image](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DTHJCUQ5HWL6PDEDGENIZBN34Q_size-normalized.jpg&w=1440)
+**Image**: ![Article Image](https://i.insider.com/678fbeb92fcded5e9073f8d5?width=1200&format=jpeg)
+
+---
+
+## 5. CEO Andy Jassy’s 2024 Letter to Shareholders - AboutAmazon.com
+
+**Source**: Aboutamazon.com
+
+**Published**: 2025-04-10 10:07:56
+
+**Author**: Andy Jassy, CEO of Amazon
+
+**Description**: Read Amazon CEO Andy Jassy’s 2024 Letter to Shareholders.
+
+**URL**: [https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders)
+
+**Image**: ![Article Image](https://assets.aboutamazon.com/dims4/default/a095a73/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F5c%2Fb5%2F2f1d03cb4b4492a7b88fb8aab077%2F2024-shareholderletter-hero-image-final.jpg)
+
+---
+
+## 6. Stocks signal a second day of gains after Trump’s tariff surprise: Live Updates - Fox Business
+
+**Source**: Fox Business
+
+**Published**: 2025-04-10 09:52:34
+
+**Author**: FOX Business Team
+
+**Description**: After stocks notch their best day in five years, investors eye another day of gains for the Dow, S&P and Nasdaq, as Trump touts tariff progress and with a fresh read on inflation. . FOX Business is providing real-time updates on the markets, commodities and a…
+
+**Content**:
+
+President Donald Trump said he has attracted over $7 trillion in private investments since being elected, from companies like Apple, Eli Lilly, and Stargate, as well as countries such as Saudi Arabia… [+917 chars]
+
+**URL**: [https://www.foxbusiness.com/live-news/stocks-signal-a-second-day-of-gains-after-trump-s-tariff-surprise-live-updates](https://www.foxbusiness.com/live-news/stocks-signal-a-second-day-of-gains-after-trump-s-tariff-surprise-live-updates)
+
+**Image**: ![Article Image](https://livenews.foxbusiness.com/images/2025/04/d2f0e6c2e7db4d0699dd46380e34274f.jpg)
+
+---
+
+## 7. Inflation data to offer snapshot of economy largely before tariff turmoil - ABC News
+
+**Source**: ABC News
+
+**Published**: 2025-04-10 09:14:56
+
+**Author**: ABC News
+
+**URL**: [https://abcnews.go.com/Business/inflation-data-offer-snapshot-economy-largely-tariff-turmoil/story?id\\u003d120630485](https://abcnews.go.com/Business/inflation-data-offer-snapshot-economy-largely-tariff-turmoil/story?id\\u003d120630485)
+
+---
+
+## 8. Elon Musk's DOGE reportedly deploys AI to monitor federal workers for anti-Trump sentiment - Fortune
+
+**Source**: Fortune
+
+**Published**: 2025-04-10 09:12:27
+
+**Author**: Irina Ivanova
+
+**Description**: The Trump administration has made no secret of its desire for a smaller government staffed by loyalists.
+
+**URL**: [https://fortune.com/2025/04/09/musks-doge-reportedly-deploys-ai-to-monitor-federal-workers-for-anti-trump-sentiment-the-willingness-to-skirt-laws-is-brazen/](https://fortune.com/2025/04/09/musks-doge-reportedly-deploys-ai-to-monitor-federal-workers-for-anti-trump-sentiment-the-willingness-to-skirt-laws-is-brazen/)
+
+**Image**: ![Article Image](https://fortune.com/img-assets/wp-content/uploads/2025/04/GettyImages-2206725167_193a7d-e1744151180689.jpg?resize=1200,600)
+
+---
+
+## 9. 10-Year Treasury yields fall after Trump's tariff reprieve - CNBC
+
+**Source**: CNBC
+
+**Published**: 2025-04-10 08:53:41
+
+**Author**: Sawdah Bhaimiya
+
+**Description**: U.S. Treasury yields moved lower on Thursday as investors breathed a sigh of relief after U.S. President Donald Trump enacted a 90-day tariff reprieve.
+
+**Content**:
+
+U.S. Treasury yields moved lower on Thursday as the market received positive news on inflation and investors breathed a sigh of relief after President Donald Trump enacted a 90-day tariff reprieve on… [+2038 chars]
+
+**URL**: [https://www.cnbc.com/2025/04/10/us-treasury-yields-investors-welcome-trumps-tariff-pause-.html](https://www.cnbc.com/2025/04/10/us-treasury-yields-investors-welcome-trumps-tariff-pause-.html)
+
+**Image**: ![Article Image](https://image.cnbcfm.com/api/v1/image/108129557-1744231210579-gettyimages-2208756034-AFP_39RJ9HR.jpeg?v=1744231445&w=1920&h=1080)
+
+---
+
+## 10. Nvidia Stock Runs Out of Steam After Tariff Rally. But There’s Good News. - Barron's
+
+**Source**: Barron's
+
+**Published**: 2025-04-10 08:46:00
+
+**Author**: Barron's
+
+**URL**: [https://www.barrons.com/articles/nvidia-stock-price-chips-tariffs-e2d727f0](https://www.barrons.com/articles/nvidia-stock-price-chips-tariffs-e2d727f0)
 
 ---
 

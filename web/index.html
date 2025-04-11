@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samvada</title>
+    <link rel="stylesheet" href="/css/newspaper-style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Georgia&family=Arial&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+
+        <div id="live-clock" class="live-clock"></div>
+
+        <!-- Masthead -->
+        <header class="masthead">
+            <h1>Samvada</h1>
+            <p>Curated news for seekers</p>
+        </header>
+        
+        <!-- Main Navigation -->
+        <nav class="main-nav">
+            <a href="#" id="home-link">Home</a>
+            <a href="#" id="top-headlines-link">Top Headlines</a>
+            <a href="#" id="everything-link">Deep Search</a>
+            <a href="#" id="sources-link">Sources</a>
+        </nav>
+        
+        <!-- Content Area -->
+        <div class="content-wrapper">
+            <!-- Sidebar with News Categories -->
+            <aside class="sidebar">
+                <h2>News Categories</h2>
+                <ul id="category-list">
+                    <li class="active"><a href="#" data-category="all">All News</a></li>
+                    <li><a href="#" data-category="economy">Economy</a></li>
+                    <li><a href="#" data-category="international">International</a></li>
+                    <li><a href="#" data-category="governance">Governance</a></li>
+                </ul>
+                
+                <h2>News Files</h2>
+                <ul id="news-file-list">
+                    <!-- Will be populated dynamically -->
+                    <li>Loading file list...</li>
+                </ul>
+            </aside>
+            
+            <!-- Main Content Area -->
+            <main class="main-content">
+                <!-- Top Headlines API Section -->
+                <section id="top-headlines-section" class="api-section" style="display: none;">
+                    <h2>Top Headlines</h2>
+                    
+                    <!-- Filters for Top Headlines -->
+                    <div class="filters">
+                        <div class="filter-group">
+                            <label for="country">Country:</label>
+                            <select id="country">
+                                <option value="in" selected>India</option>
+                                <option value="us">United States</option>
+                                <option value="gb">United Kingdom</option>
+                                <option value="au">Australia</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="category">Category:</label>
+                            <select id="category">
+                                <option value="general" selected>General</option>
+                                <option value="business">Business</option>
+                                <option value="technology">Technology</option>
+                                <option value="science">Science</option>
+                                <option value="health">Health</option>
+                            </select>
+                        </div>
+                        
+                        <button id="load-headlines">Refresh Headlines</button>
+                    </div>
+                    
+                    <!-- Headlines Results -->
+                    <div id="headlines-results" class="news-grid">
+                        <!-- Will be populated with articles -->
+                        <div class="loading">Loading headlines...</div>
+                    </div>
+                </section>
+                
+                <!-- Everything API Section -->
+                <section id="everything-section" class="api-section" style="display: none;">
+                    <h2>Deep Search</h2>
+                    
+                    <!-- Filters for Everything API -->
+                    <div class="filters">
+                        <div class="filter-group">
+                            <label for="search-query">Keywords:</label>
+                            <input type="text" id="search-query" placeholder="e.g. climate change, budget">
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="search-in">Search in:</label>
+                            <select id="search-in">
+                                <option value="all">All Fields</option>
+                                <option value="title">Title Only</option>
+                                <option value="description">Description Only</option>
+                                <option value="content">Content Only</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="language">Language:</label>
+                            <select id="language">
+                                <option value="en" selected>English</option>
+                                <option value="hi">Hindi</option>
+                            </select>
+                        </div>
+                        
+                        <button id="run-search">Search</button>
+                    </div>
+                    
+                    <!-- Advanced Filters (Initially Hidden) -->
+                    <div id="advanced-filters" style="display: none;">
+                        <div class="filter-group">
+                            <label for="from-date">From:</label>
+                            <input type="date" id="from-date">
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="to-date">To:</label>
+                            <input type="date" id="to-date">
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="sort-by">Sort by:</label>
+                            <select id="sort-by">
+                                <option value="publishedAt" selected>Newest First</option>
+                                <option value="relevancy">Relevance</option>
+                                <option value="popularity">Popularity</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <!-- Search Results -->
+                    <div id="search-results" class="news-grid">
+                        <!-- Will be populated with search results -->
+                        <div class="loading">Enter search terms and click "Search"</div>
+                    </div>
+                </section>
+                
+                <!-- Article View -->
+                <section id="article-view" style="display: none;">
+                    <button class="back-button">← Back to List</button>
+                    
+                    <article class="article">
+                        <h1 id="article-title" class="headline"></h1>
+                        <div id="article-byline" class="byline"></div>
+                        <div id="article-content"></div>
+                        
+                        <div class="article-feedback">
+                            <button class="thumb-up">👍 Helpful</button>
+                            <button class="thumb-down">👎 Not Helpful</button>
+                        </div>
+                    </article>
+                </section>
+                
+                <!-- Welcome Section (Shown on Home) -->
+                <section id="welcome-section">
+                    <h2 class="headline">Welcome to Samvada</h2>
+                    <div class="article">
+                        <p>This platform distills news from across the web to uncover the core facts—so you get the raw information, and the choice to believe it is entirely yours.</p>
+                        <p><strong>Top Headlines</strong> lets you browse breaking news by country and category at a glance.</p>
+                        <p><strong>Deep Search</strong> lets you find articles on the exact topics you care about.</p>
+                        <p>Rate each article with a thumbs up or down to help us continuously improve and personalize your news experience.</p>
+                    </div>
+                    
+                    <!-- Recent Headlines Preview -->
+                    <h3>Recent Important Headlines</h3>
+                    <div id="welcome-news" class="news-grid">
+                        <!-- Will be populated with a few recent headlines -->
+                        <div class="loading">Loading recent headlines...</div>
+                    </div>
+                </section>
+                
+                <!-- Sources View (Initially Hidden) -->
+                <section id="sources-section" style="display: none;">
+                    <h2>News Sources</h2>
+                    <div id="sources-content"></div>
+                </section>
+                
+                <!-- File Content View (Initially Hidden) -->
+                <section id="file-content-section" style="display: none;">
+                    <button class="back-button">← Back</button>
+                    <div id="file-content"></div>
+                </section>
+            </main>
+        </div>
+        
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Samvada © 2025 | News data powered by NewsAPI.org and various RSS feeds.</p>
+            <p>Last updated: <span id="last-updated"></span></p>
+        </footer>
+    </div>
+    
+    <script src="/js/news-portal.js"></script>
+</body>
+</html> 

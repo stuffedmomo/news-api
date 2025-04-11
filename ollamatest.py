@@ -24,7 +24,7 @@ import re
 llm = OllamaLLM(model="llama3.2:1b", streaming=True)
 
 # Load the specific markdown file
-file_path = r"C:\Users\abhimanyu.rana\Desktop\python\news-api\news_data\upsc_economy.md"
+ 
 
 # Load the markdown content
 loader = TextLoader(file_path)

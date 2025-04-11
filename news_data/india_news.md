@@ -1,299 +1,224 @@
 # Latest News from India
 
-*Generated on 2025-04-09 14:04:19*
+*Generated on 2025-04-11 16:50:29*
 
-Total articles: 15
+Total articles: 14
 
-## 1. Coronavirus live updates | Schools in Rajasthan to reopen from August 2
-
-**Source**: The Hindu
-
-**Published**: 2021-07-23 04:37:35
-
-**Author**: The Hindu Net Desk
-
-**Description**: More than half of all European adults are now fully vaccinated, the EU said on Thursday, as countries across Europe and Asia battled fresh outbreaks blamed on the fast-spreading Delta variant.
-
-**Content**:
-
-Given the robust and statute-based death registration system in the country, while some cases could go undetected as per the principles of infectious disease and its management, missing out on deaths… [+2612 chars]
-
-**URL**: [https://www.thehindu.com/news/national/coronavirus-live-july-23-2021-updates/article35481907.ece](https://www.thehindu.com/news/national/coronavirus-live-july-23-2021-updates/article35481907.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/news/national/andhra-pradesh/itrjr2/article35457972.ece/ALTERNATES/LANDSCAPE_615/22vjcovid)
-
----
-
-## 2. Parliament proceedings updates | Govt. to move motion seeking suspension of TMC MP today
+## 1. Telangana’s RRR northern part alignment completed by MoRTH, DPR likely in couple of months
 
 **Source**: The Hindu
 
-**Published**: 2021-07-23 04:37:33
+**Published**: Fri, 11 Apr 2025 16:46:35 +0530
 
-**Author**: The Hindu Net Desk
-
-**Description**: The proceedings of both the Houses of Parliament remained paralysed in the first four days of Monsoon session as Opposition members protested over a number of issues including the Pegasus snooping con
+**Description**: Hyderabad-Srisailam four-lane section cleared up to Krishna River
 
 **Content**:
 
-The proceedings of both the Houses of Parliament remained paralysed in the first four days of Monsoon session as Opposition members protested over a number of issues including the Pegasus snooping co… [+2005 chars]
+Hyderabad-Srisailam four-lane section cleared up to Krishna River
 
-**URL**: [https://www.thehindu.com/news/national/parliament-proceedings-live-july-23-2021/article35481906.ece](https://www.thehindu.com/news/national/parliament-proceedings-live-july-23-2021/article35481906.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/news/national/yfzd3o/article34559558.ece/ALTERNATES/LANDSCAPE_615/ParliamentHouse)
+**URL**: [https://www.thehindu.com/news/national/telangana/telanganas-rrr-northern-part-alignment-completed-by-morth-dpr-likely-in-couple-of-months/article69438773.ece](https://www.thehindu.com/news/national/telangana/telanganas-rrr-northern-part-alignment-completed-by-morth-dpr-likely-in-couple-of-months/article69438773.ece)
 
 ---
 
-## 3. Tokyo Olympics | Deepika ninth in ranking round; Koreans top-two
+## 2. SC directs Centre, Bihar Govt to report on clearing illegal constructions along Ganges banks
 
 **Source**: The Hindu
 
-**Published**: 2021-07-23 03:40:59
+**Published**: Fri, 11 Apr 2025 16:43:37 +0530
 
-**Author**: PTI
-
-**Description**: The performances will determine the seedings for the elimination rounds.
+**Description**: A Bench also sought to know the number of existing encroachments as on date aside from the manner and time period in which the authorities proposed to remove them
 
 **Content**:
 
-Star Indian archer Deepika Kumari finished ninth in the womens individual ranking round as the countrys Olympic campaign kickstarted at the Yumenoshima Park in Tokyo on Friday.
- The world No.1 finis… [+1117 chars]
+A Bench also sought to know the number of existing encroachments as on date aside from the manner and time period in which the authorities proposed to remove them
 
-**URL**: [https://www.thehindu.com/sport/tokyo-olympics-deepika-ninth-in-ranking-round-koreans-top-two/article35481902.ece](https://www.thehindu.com/sport/tokyo-olympics-deepika-ninth-in-ranking-round-koreans-top-two/article35481902.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/sport/uvmmr0/article35481908.ece/ALTERNATES/LANDSCAPE_615/thnak1330128994jpg)
+**URL**: [https://www.thehindu.com/news/national/sc-directs-centre-bihar-govt-to-report-on-clearing-illegal-constructions-along-ganges-banks/article69439075.ece](https://www.thehindu.com/news/national/sc-directs-centre-bihar-govt-to-report-on-clearing-illegal-constructions-along-ganges-banks/article69439075.ece)
 
 ---
 
-## 4. Xi Jinping visits Tibet border region, first by Chinese leader in years
+## 3. TMC MP Mahua Moitra moves SC challenging Waqf (Amendment) Act
 
 **Source**: The Hindu
 
-**Published**: 2021-07-23 03:01:30
+**Published**: Fri, 11 Apr 2025 16:42:24 +0530
 
-**Author**: Ananth Krishnan
-
-**Description**: He inspects newly opened and strategically important railway line
+**Description**: Ms. Moitra, who filed her plea on April 9, has said the controversial amendment not only suffered from serious procedural lapses but also violated several fundamental rights enshrined in the Constitution
 
 **Content**:
 
-Chinas President Xi Jinping this week became the first Chinese leader in many years to visit Tibet as well as its southeastern border region with India, as he inspected a newly opened and strategical… [+3558 chars]
+Ms. Moitra, who filed her plea on April 9, has said the controversial amendment not only suffered from serious procedural lapses but also violated several fundamental rights enshrined in the Constitution
 
-**URL**: [https://www.thehindu.com/news/international/xi-jinping-visits-tibet-border-region-first-by-chinese-leader-in-years/article35481755.ece](https://www.thehindu.com/news/international/xi-jinping-visits-tibet-border-region-first-by-chinese-leader-in-years/article35481755.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/news/international/nowz13/article34617350.ece/ALTERNATES/LANDSCAPE_615/ChinaTwitterFakeFans83865jpg-f58f3jpg)
+**URL**: [https://www.thehindu.com/news/national/tmc-mp-mahua-moitra-moves-sc-challenging-waqf-amendment-act/article69439079.ece](https://www.thehindu.com/news/national/tmc-mp-mahua-moitra-moves-sc-challenging-waqf-amendment-act/article69439079.ece)
 
 ---
 
-## 5. Six Ministers huddle with Yediyurappa, but say they will abide by party decision
+## 4. Splendour marks the procession of golden chariot
 
 **Source**: The Hindu
 
-**Published**: 2021-07-22 19:39:39
+**Published**: Fri, 11 Apr 2025 16:40:21 +0530
 
-**Author**: Special Correspondent
-
-**Description**: They had played a key role in bringing BJP to power
-
-**Content**:
-
-Soon after the State Cabinet meeting on Thursday, at least six Ministers, whose resignations were responsible for bringing down the previous CongressJD(S) coalition government and putting the incumbe… [+1692 chars]
-
-**URL**: [https://www.thehindu.com/news/national/karnataka/six-ministers-huddle-with-yediyurappa-but-say-they-will-abide-by-party-decision/article35480182.ece](https://www.thehindu.com/news/national/karnataka/six-ministers-huddle-with-yediyurappa-but-say-they-will-abide-by-party-decision/article35480182.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/news/national/karnataka/n1n7mn/article35480181.ece/ALTERNATES/LANDSCAPE_615/23bgbsycabinet1)
+**URL**: [https://www.thehindu.com/news/national/andhra-pradesh/splendour-marks-the-procession-of-golden-chariot/article69438679.ece](https://www.thehindu.com/news/national/andhra-pradesh/splendour-marks-the-procession-of-golden-chariot/article69438679.ece)
 
 ---
 
-## 6. Limits of cooperation: On reforms in cooperative sector
+## 5. Permanent house sites distributed to 600 families in Mangalagiri
 
 **Source**: The Hindu
 
-**Published**: 2021-07-22 18:32:00
+**Published**: Fri, 11 Apr 2025 16:35:17 +0530
 
-**Author**: The Hindu
-
-**Description**: Reforms in cooperative sector should not be at the cost of federal principles
+**Description**: Minister Lokesh promises rapid development of his constituency
 
 **Content**:
 
-The cooperative movement certainly needs reform and revitalisation. Beset by political interference, many cooperative societies do not hold elections regularly, while some are superseded frequently. … [+2692 chars]
+Minister Lokesh promises rapid development of his constituency
 
-**URL**: [https://www.thehindu.com/opinion/editorial/limits-of-cooperation-the-hindu-editorial-on-reforms-in-cooperative-sector/article35478339.ece](https://www.thehindu.com/opinion/editorial/limits-of-cooperation-the-hindu-editorial-on-reforms-in-cooperative-sector/article35478339.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
+**URL**: [https://www.thehindu.com/news/national/andhra-pradesh/permanent-house-sites-distributed-to-600-families-in-mangalagiri/article69438777.ece](https://www.thehindu.com/news/national/andhra-pradesh/permanent-house-sites-distributed-to-600-families-in-mangalagiri/article69438777.ece)
 
 ---
 
-## 7. In search of gold: On Tokyo Olympics
+## 6. Guntur Municipal Corporation receives 50 pushcarts to boost sanitation drive in Guntur
 
 **Source**: The Hindu
 
-**Published**: 2021-07-22 18:32:00
+**Published**: Fri, 11 Apr 2025 16:30:24 +0530
 
-**Author**: The Hindu
-
-**Description**: The Olympic Games remain the greatest sporting event for fans and athletes alike
+**Description**: Tamilnad Mercantile Bank donated the pushcarts to help improve the work of sanitation workers
 
 **Content**:
 
-A medal can lose its lustre but the athletes sporting immortality is set in stone, such is the enduring allure of triumphs at the Olympics. Even a participant without any titles, is referred to as an… [+2521 chars]
+Tamilnad Mercantile Bank donated the pushcarts to help improve the work of sanitation workers
 
-**URL**: [https://www.thehindu.com/opinion/editorial/in-search-of-gold-the-hindu-editorial-on-tokyo-olympics-2021/article35478354.ece](https://www.thehindu.com/opinion/editorial/in-search-of-gold-the-hindu-editorial-on-tokyo-olympics-2021/article35478354.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/static/theme/default/base/img/og-image.jpg)
+**URL**: [https://www.thehindu.com/news/national/andhra-pradesh/guntur-municipal-corporation-receives-50-pushcarts-to-boost-sanitation-drive-in-guntur/article69438836.ece](https://www.thehindu.com/news/national/andhra-pradesh/guntur-municipal-corporation-receives-50-pushcarts-to-boost-sanitation-drive-in-guntur/article69438836.ece)
 
 ---
 
-## 8. Hours after ouster as CBI chief, Alok Verma’s phone numbers made it to Pegasus list: Report
+## 7. Satara ruler Pratapsinh Bhosale started 1st school for women, Mahatma Phule emulated him: Udayanraje
 
 **Source**: The Hindu
 
-**Published**: 2021-07-22 17:18:05
+**Published**: Fri, 11 Apr 2025 16:20:46 +0530
 
-**Author**: Special Correspondent
-
-**Description**: “Also added to the list of numbers at the same time as Verma were two other senior CBI officials, Rakesh Asthana and A.K. Sharma...,” news portal The Wire claimed in a report.
+**Description**: Mr. Bhosale's remarks drew a sharp reaction from the opposition with Maharashtra Congress president Harshvardhan Sapkal accusing him of distorting history
 
 **Content**:
 
-The Wire on Thursday reported that hours after Prime Minister Narendra Modi acted to oust Alok Verma from his post as head of the Central Bureau of Investigation (CBI) at midnight on October 23, 2018… [+1223 chars]
+Mr. Bhosale's remarks drew a sharp reaction from the opposition with Maharashtra Congress president Harshvardhan Sapkal accusing him of distorting history
 
-**URL**: [https://www.thehindu.com/news/national/hours-after-ouster-as-cbi-chief-alok-vermas-phone-numbers-made-it-to-pegasus-list-report/article35477226.ece](https://www.thehindu.com/news/national/hours-after-ouster-as-cbi-chief-alok-vermas-phone-numbers-made-it-to-pegasus-list-report/article35477226.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/news/national/wjxhfq/article35477225.ece/ALTERNATES/LANDSCAPE_615/AlokVerma)
+**URL**: [https://www.thehindu.com/news/national/maharashtra/satara-ruler-pratapsinh-bhosale-started-1st-school-for-women-mahatma-phule-emulated-him-udayanraje/article69439037.ece](https://www.thehindu.com/news/national/maharashtra/satara-ruler-pratapsinh-bhosale-started-1st-school-for-women-mahatma-phule-emulated-him-udayanraje/article69439037.ece)
 
 ---
 
-## 9. Dalai Lama’s close aides targeted on Pegasus spyware list
+## 8. Nainar Nagendran files nomination for Tamil Nadu BJP top post
 
-**Source**: The Hindu
+**Source**: Times of India
 
-**Published**: 2021-07-22 15:47:01
+**Published**: 2025-04-11 15:49:27
 
-**Author**: Ananth Krishnan
-
-**Description**: ‘Analysis indicates that the Indian govt. was selecting the potential targets’
+**Description**: <a href="https://timesofindia.indiatimes.com/india/nainar-nagendran-files-nomination-for-tamil-nadu-bjp-top-post/articleshow/120203537.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120203537.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Nainar Nagendran, a BJP legislator, has filed his nomination for the party's Tamil Nadu state president election, potentially succeeding K Annamalai. His nomination is backed by key BJP figures. Nagendran's past ties with AIADMK fuel speculation about a possible BJP-AIADMK alliance, especially after Edappadi K Palaniswami's meeting with Amit Shah.
 
 **Content**:
 
-Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]
+<a href="https://timesofindia.indiatimes.com/india/nainar-nagendran-files-nomination-for-tamil-nadu-bjp-top-post/articleshow/120203537.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120203537.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Nainar Nagendran, a BJP legislator, has filed his nomination for the party's Tamil Nadu state president election, potentially succeeding K Annamalai. His nomination is backed by key BJP figures. Nagendran's past ties with AIADMK fuel speculation about a possible BJP-AIADMK alliance, especially after Edappadi K Palaniswami's meeting with Amit Shah.
 
-**URL**: [https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece](https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama)
+**URL**: [https://timesofindia.indiatimes.com/india/nainar-nagendran-files-nomination-for-tamil-nadu-bjp-top-post/articleshow/120203537.cms](https://timesofindia.indiatimes.com/india/nainar-nagendran-files-nomination-for-tamil-nadu-bjp-top-post/articleshow/120203537.cms)
 
 ---
 
-## 10. Parliament paralysed over Pegasus, farm laws
+## 9. 'Executed with extreme caution': Inside the secret mission that brought 26/11 terror attack accused Tahawwur Rana to India
 
-**Source**: The Hindu
+**Source**: Times of India
 
-**Published**: 2021-07-22 12:45:50
+**Published**: 2025-04-11 15:43:39
 
-**Author**: Sobhana K Nair
-
-**Description**: Trinamool member tears IT Minister’s statement on spyware.
+**Description**: <a href="https://timesofindia.indiatimes.com/india/executed-with-extreme-caution-inside-the-secret-mission-that-brought-26/11-terror-attack-accused-tahawwur-rana-to-india/articleshow/120203509.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120203509.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Tahawwur Hussain Rana, a key figure in the 26/11 Mumbai attacks, has been extradited from the US to India. This followed a long legal battle. An NIA team brought Rana to Delhi. He was presented in court. The court granted NIA 18-day custody for interrogation. Rana's questioning is crucial to uncover the full conspiracy. He is linked to David Headley.
 
 **Content**:
 
-The proceedings of both the Houses of Parliament continued to remain paralysed on Thursday as Opposition members protested over a number of issues including the Pegasus snooping controversy and made … [+4103 chars]
+<a href="https://timesofindia.indiatimes.com/india/executed-with-extreme-caution-inside-the-secret-mission-that-brought-26/11-terror-attack-accused-tahawwur-rana-to-india/articleshow/120203509.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120203509.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Tahawwur Hussain Rana, a key figure in the 26/11 Mumbai attacks, has been extradited from the US to India. This followed a long legal battle. An NIA team brought Rana to Delhi. He was presented in court. The court granted NIA 18-day custody for interrogation. Rana's questioning is crucial to uncover the full conspiracy. He is linked to David Headley.
 
-**URL**: [https://www.thehindu.com/news/national/tmc-bjp-mps-scuffle-in-rajya-sabha-over-snooping/article35469208.ece](https://www.thehindu.com/news/national/tmc-bjp-mps-scuffle-in-rajya-sabha-over-snooping/article35469208.ece)
-
-**Image**: ![Article Image](https://www.thehindu.com/news/national/28kofw/article35475486.ece/ALTERNATES/LANDSCAPE_615/RajyaSabha-snoopingjpg)
+**URL**: [https://timesofindia.indiatimes.com/india/executed-with-extreme-caution-inside-the-secret-mission-that-brought-26/11-terror-attack-accused-tahawwur-rana-to-india/articleshow/120203509.cms](https://timesofindia.indiatimes.com/india/executed-with-extreme-caution-inside-the-secret-mission-that-brought-26/11-terror-attack-accused-tahawwur-rana-to-india/articleshow/120203509.cms)
 
 ---
 
-## 11. Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China
+## 10. 'Forced to conduct digital arrests': 60 Indians rescued from Myanmar; 5 agents held
 
-**Source**: The Times of India
+**Source**: Times of India
 
-**Published**: 2021-04-23 08:29:00
+**Published**: 2025-04-11 15:41:20
 
-**Author**: Rajat Pandit
-
-**Description**: India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu
+**Description**: <a href="https://timesofindia.indiatimes.com/india/forced-to-conduct-digital-arrests-60-indians-rescued-from-myanmar-5-agents-held/articleshow/120203048.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120203048.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Cybercrime officials rescued 60 Indian nationals from Myanmar, victims of forced cyber slavery under false job promises. Maharashtra Police arrested five agents, including a foreign national, involved in trafficking victims from Thailand to Myanmar. The victims were coerced into carrying out digital arrest and investment scams in guarded compounds controlled by armed groups.
 
 **Content**:
 
-Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China
-<ul><li>News</li>
-<li>India News</li>
-<li>Army explores procurement of 350 light tanks for mou… [+58 chars]
+<a href="https://timesofindia.indiatimes.com/india/forced-to-conduct-digital-arrests-60-indians-rescued-from-myanmar-5-agents-held/articleshow/120203048.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120203048.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Cybercrime officials rescued 60 Indian nationals from Myanmar, victims of forced cyber slavery under false job promises. Maharashtra Police arrested five agents, including a foreign national, involved in trafficking victims from Thailand to Myanmar. The victims were coerced into carrying out digital arrest and investment scams in guarded compounds controlled by armed groups.
 
-**URL**: [http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms](http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms)
-
-**Image**: ![Article Image](https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg)
+**URL**: [https://timesofindia.indiatimes.com/india/forced-to-conduct-digital-arrests-60-indians-rescued-from-myanmar-5-agents-held/articleshow/120203048.cms](https://timesofindia.indiatimes.com/india/forced-to-conduct-digital-arrests-60-indians-rescued-from-myanmar-5-agents-held/articleshow/120203048.cms)
 
 ---
 
-## 12. PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways
+## 11. 'NIA established under UPA': Kapil Sibal congratulates Congress for 26/11 plotter Tahawwur Rana's extradition
 
-**Source**: The Times of India
+**Source**: Times of India
 
-**Published**: 2021-04-23 05:44:49
+**Published**: 2025-04-11 15:40:06
 
-**Author**: Times Of India
-
-**Description**: IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.
+**Description**: <a href="https://timesofindia.indiatimes.com/india/nia-established-under-upa-kapil-sibal-congratulates-congress-for-26/11-plotter-tahawwur-ranas-extradition/articleshow/120202063.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120202063.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Kapil Sibal credited the Congress-led UPA government for the extradition of Tahawwur Rana, a 26/11 Mumbai terror attacks accused, highlighting the establishment of the NIA during their tenure. The NIA, formed shortly after the attacks, played a crucial role in registering the case and expressing displeasure to the US regarding Rana's initial release.
 
 **Content**:
 
-Ravi Bishnoi return on the cards?
-Deepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]
+<a href="https://timesofindia.indiatimes.com/india/nia-established-under-upa-kapil-sibal-congratulates-congress-for-26/11-plotter-tahawwur-ranas-extradition/articleshow/120202063.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120202063.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Kapil Sibal credited the Congress-led UPA government for the extradition of Tahawwur Rana, a 26/11 Mumbai terror attacks accused, highlighting the establishment of the NIA during their tenure. The NIA, formed shortly after the attacks, played a crucial role in registering the case and expressing displeasure to the US regarding Rana's initial release.
 
-**URL**: [http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms](http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms)
-
-**Image**: ![Article Image](https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg)
+**URL**: [https://timesofindia.indiatimes.com/india/nia-established-under-upa-kapil-sibal-congratulates-congress-for-26/11-plotter-tahawwur-ranas-extradition/articleshow/120202063.cms](https://timesofindia.indiatimes.com/india/nia-established-under-upa-kapil-sibal-congratulates-congress-for-26/11-plotter-tahawwur-ranas-extradition/articleshow/120202063.cms)
 
 ---
 
-## 13. Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment
+## 12. What steps taken to remove encroachments along Ganga? SC asks Centre, Bihar
 
-**Source**: The Times of India
+**Source**: Times of India
 
-**Published**: 2021-04-23 05:43:00
+**Published**: 2025-04-11 15:32:17
 
-**Author**: PTI
+**Description**: <a href="https://timesofindia.indiatimes.com/india/what-steps-taken-to-remove-encroachments-along-ganga-sc-asks-centre-bihar/articleshow/120202741.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120202741.cms" style="margin-top: 3px; margin-right: 5px;" /></a>The Supreme Court, deeply concerned about illegal constructions on the Ganges' banks, has instructed the Centre and Bihar government to submit status reports detailing actions taken to remove encroachments.
 
-**Description**: India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf
+**Content**:
 
-**URL**: [http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms](http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms)
+<a href="https://timesofindia.indiatimes.com/india/what-steps-taken-to-remove-encroachments-along-ganga-sc-asks-centre-bihar/articleshow/120202741.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120202741.cms" style="margin-top: 3px; margin-right: 5px;" /></a>The Supreme Court, deeply concerned about illegal constructions on the Ganges' banks, has instructed the Centre and Bihar government to submit status reports detailing actions taken to remove encroachments.
 
-**Image**: ![Article Image](https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg)
-
----
-
-## 14. Even record death toll may hide extent of India’s Covid crisis
-
-**Source**: The Times of India
-
-**Published**: 2021-04-23 04:41:00
-
-**Author**: Bloomberg
-
-**Description**: India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.
-
-**URL**: [http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms](http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms)
-
-**Image**: ![Article Image](https://static.toiimg.com/thumb/msid-82213819,width-1070,height-580,imgsize-232887,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg)
+**URL**: [https://timesofindia.indiatimes.com/india/what-steps-taken-to-remove-encroachments-along-ganga-sc-asks-centre-bihar/articleshow/120202741.cms](https://timesofindia.indiatimes.com/india/what-steps-taken-to-remove-encroachments-along-ganga-sc-asks-centre-bihar/articleshow/120202741.cms)
 
 ---
 
-## 15. Government to provide 5 kg free food grains to poor for May & June
+## 13. 'Kashi underwent significant changes in last 11 years': UP CM Yogi Adityanath on PM Modi's Varanasi visit
 
-**Source**: The Times of India
+**Source**: Times of India
 
-**Published**: 2021-04-23 04:23:00
+**Published**: 2025-04-11 15:13:36
 
-**Author**: Dipak K Dash
+**Description**: <a href="https://timesofindia.indiatimes.com/india/kashi-undergone-significant-changes-in-last-11-years-uttar-pradesh-cm-yogi-on-pms-varanasi-visit/articleshow/120202169.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120202169.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Prime Minister Narendra Modi visited Varanasi, where he inaugurated and laid the foundation stone for 44 projects worth ₹3884.18 crores. Chief Minister Yogi Adityanath welcomed the Prime Minister, highlighting the significant developments in Kashi over the past 11 years.
 
-**Description**: India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u
+**Content**:
 
-**URL**: [http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms](http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms)
+<a href="https://timesofindia.indiatimes.com/india/kashi-undergone-significant-changes-in-last-11-years-uttar-pradesh-cm-yogi-on-pms-varanasi-visit/articleshow/120202169.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120202169.cms" style="margin-top: 3px; margin-right: 5px;" /></a>Prime Minister Narendra Modi visited Varanasi, where he inaugurated and laid the foundation stone for 44 projects worth ₹3884.18 crores. Chief Minister Yogi Adityanath welcomed the Prime Minister, highlighting the significant developments in Kashi over the past 11 years.
 
-**Image**: ![Article Image](https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg)
+**URL**: [https://timesofindia.indiatimes.com/india/kashi-undergone-significant-changes-in-last-11-years-uttar-pradesh-cm-yogi-on-pms-varanasi-visit/articleshow/120202169.cms](https://timesofindia.indiatimes.com/india/kashi-undergone-significant-changes-in-last-11-years-uttar-pradesh-cm-yogi-on-pms-varanasi-visit/articleshow/120202169.cms)
+
+---
+
+## 14. 'Uncovering deeper layers of conspiracy': What NIA told court while seeking Tahawwur Rana's custody
+
+**Source**: Times of India
+
+**Published**: 2025-04-11 15:07:38
+
+**Description**: <a href="https://timesofindia.indiatimes.com/india/uncovering-deeper-layers-of-conspiracy-what-nia-told-court-while-seeking-tahawwur-ranas-custody/articleshow/120202185.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120202185.cms" style="margin-top: 3px; margin-right: 5px;" /></a>The National Investigation Agency (NIA) has informed a special court that Tahawwur Rana, accused in the Mumbai attacks, had planned similar attacks in other Indian cities. Following his extradition from the US, the NIA sought Rana's prolonged custody to uncover the full scope of the conspiracy, suspecting that the tactics used in Mumbai were intended for execution elsewhere.
+
+**Content**:
+
+<a href="https://timesofindia.indiatimes.com/india/uncovering-deeper-layers-of-conspiracy-what-nia-told-court-while-seeking-tahawwur-ranas-custody/articleshow/120202185.cms"><img align="left" border="0" hspace="10" src="https://timesofindia.indiatimes.com/photo/120202185.cms" style="margin-top: 3px; margin-right: 5px;" /></a>The National Investigation Agency (NIA) has informed a special court that Tahawwur Rana, accused in the Mumbai attacks, had planned similar attacks in other Indian cities. Following his extradition from the US, the NIA sought Rana's prolonged custody to uncover the full scope of the conspiracy, suspecting that the tactics used in Mumbai were intended for execution elsewhere.
+
+**URL**: [https://timesofindia.indiatimes.com/india/uncovering-deeper-layers-of-conspiracy-what-nia-told-court-while-seeking-tahawwur-ranas-custody/articleshow/120202185.cms](https://timesofindia.indiatimes.com/india/uncovering-deeper-layers-of-conspiracy-what-nia-told-court-while-seeking-tahawwur-ranas-custody/articleshow/120202185.cms)
 
 ---
 
