@@ -1,4 +1,4 @@
-# UPSC News Portal
+# News Portal
 
 A comprehensive news aggregation and curation system designed specifically for UPSC (Union Public Service Commission) examination preparation. The application fetches, processes, and categorizes news from various sources, making it easier for UPSC aspirants to stay updated with relevant current affairs.
 
